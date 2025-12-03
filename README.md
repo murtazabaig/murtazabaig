@@ -2,7 +2,7 @@
 ## I am a student at TUF, pursuing a BS in Artificial Intelligence💫
 
 ![](https://github-profile-trophy.vercel.app/?username=murtazabaig&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-🌱 I’m currently working on Financial Analysis<br><br>💻 I’m currently learning Deep Learning , Open-Cv, Scipy, Data Analysis and Machine Learning<br><br>👨‍💻 All of my projects are available at https://github.com/murtazabaig<br><br>💬 Ask me about Machine Learning, Python , Web Scrapping , Model Training , Data Analysis<br><br>📫 How to reach me murtazabaig101@gmail.com
+<br><br>🌱 I’m currently working on Financial Analysis<br><br>💻 I’m currently learning Deep Learning , Open-Cv, Scipy, Data Analysis and Machine Learning<br><br>👨‍💻 All of my projects are available at https://github.com/murtazabaig<br><br>💬 Ask me about Machine Learning, Python , Web Scrapping , Model Training , Data Analysis<br><br>📫 How to reach me murtazabaig101@gmail.com
 
 
 ## 🌐 Socials:
