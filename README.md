@@ -79,8 +79,9 @@ I am continuously improving my skills in **AI architecture, agent systems, and a
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,cpp,css,git,github,html,linux,python,pytorch,sklearn,tensorflow,django,streamlit,docker,mongodb,postgres,firebase,vercel&theme=dark&perline=30" />
+  <img src="https://skillicons.dev/icons?i=aws,cpp,css,git,github,html,linux,python,java,pytorch,tensorflow,django,docker,mongodb,postgres,firebase,vercel&theme=dark&perline=25" />
 </p>
+
 
 
 ---
