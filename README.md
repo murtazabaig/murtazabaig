@@ -1,24 +1,99 @@
-# Hi 👋, I'm Murtaza Baig
-## I am a student at TUF, pursuing a BS in Artificial Intelligence💫
-![](https://github-profile-trophy.vercel.app/?username=murtazabaig&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-<br>🌱 I’m currently working on AI Agents and automations<br><br>💻 I’m currently learning Deep Learning , Open-Cv, Scipy, Data Analysis and Machine Learning<br><br>👨‍💻 All of my projects are available at https://github.com/murtazabaig<br><br>💬 Ask me about AI Agents, Orchestrations, AI Architecture. Machine Learning, Python , Web Scrapping , Model Training , Data Analysis<br><br>📫 How to reach me murtazabaig101@gmail.com <br><br>📫Portfolio website : https://murtazabaig.vercel.app/
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MurtazaBaig) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/murtazabaig__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/murtaza-baig-906418262) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murtazabaig101) 
+<h1 align="center">👋 Hi, I'm Murtaza Baig</h1>
+<p align="center">
+  🎓 BS Artificial Intelligence student at <b>TUF</b> <br/>
+  🤖 Building AI Agents & Automations <br/>
+  🐍 Python • 📊 Machine Learning • 👁️ Computer Vision
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=murtazabaig&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=murtazabaig&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=murtazabaig&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  🌐 <a href="https://murtazabaig.vercel.app/">Portfolio</a> •
+  💻 <a href="https://github.com/murtazabaig">GitHub</a> •
+  📧 <a href="mailto:murtazabaig101@gmail.com">Email</a> •
+  💼 <a href="https://www.linkedin.com/in/murtaza-baig-906418262/">LinkedIn</a> •
+  📸 <a href="https://instagram.com/murtazabaig__">Instagram</a> •
+  📘 <a href="https://facebook.com/MurtazaBaig">Facebook</a>
+</p>
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=murtazabaig&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  🏆 <img src="https://github-profile-trophy.vercel.app/?username=murtazabaig&theme=neon&no-frame=false&no-bg=false&margin-w=8" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=murtazabaig&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+- 🌱 Actively working on **AI Agents, orchestration systems, and automations**
+- 💻 Hands-on with **Python, ML pipelines, data analysis, and CV**
+- 💬 Ask me about **AI Agents, RAG systems, orchestration, ML workflows**
+- 📫 Reach me at **murtazabaig101@gmail.com**
+
+---
+
+## 🎯 Current Focus
+- 🤖 Agent workflows (tools, memory, routing, evaluation)
+- 🔄 Automation pipelines (APIs, schedulers, webhooks)
+- 🚀 Practical ML & CV projects with **deployable demos**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Core
+Python 🐍 • C++ ⚙️
+
+### 🔹 ML / Data
+NumPy • Pandas • SciPy • scikit-learn • Matplotlib • TensorFlow • PyTorch • Keras • MLflow
+
+### 🔹 Computer Vision
+OpenCV 👁️
+
+### 🔹 Web / Apps
+Django • Streamlit 🌐
+
+### 🔹 Cloud / DevOps
+AWS ☁️ • Azure • GCP • Firebase • Vercel • GitHub Actions
+
+### 🔹 Automation
+Bash • Selenium 🤖
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murtazabaig&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtazabaig&theme=dark&hide_border=false&layout=compact" height="170" />
+</p>
+
+<p align="center">
+  🔥 <img src="https://nirzak-streak-stats.vercel.app/?user=murtazabaig&theme=dark&hide_border=false" height="200" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  💡 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 👀 Visitor Count
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=murtazabaig&icon=0&color=0" />
+</p>
