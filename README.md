@@ -132,5 +132,5 @@ Bash • Selenium 🤖
 
 ## 👀 Visitor Count
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=murtazabaig&icon=0&color=0" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/murtazabaig&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=true"/>
 </p>
