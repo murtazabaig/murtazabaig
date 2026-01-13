@@ -21,9 +21,51 @@
 ---
 
 ## 🧠 About Me
-- 🌱 Actively working on **AI Agents, orchestration systems, and automations**
-- 💻 Hands-on with **Python, ML pipelines, data analysis, and CV**
-- 💬 Ask me about **AI Agents, RAG systems, orchestration, ML workflows**
+My core strength lies in **designing, implementing, and deploying AI-powered agents and automation pipelines** that combine machine learning, orchestration logic, and real-world integrations.
+
+### 🔬 Technical Expertise
+- 🤖 **AI Agents & Orchestration**
+  - Tool-based agents, routing, memory design
+  - Multi-step workflows, decision logic, evaluation loops
+  - RAG-style systems and agent coordination concepts
+
+- 📊 **Machine Learning & Data Science**
+  - Supervised & unsupervised learning
+  - Model training, evaluation, and optimization
+  - Feature engineering, preprocessing, and EDA
+  - Experience with classification, regression, and ensemble methods
+
+- 👁️ **Computer Vision**
+  - Image preprocessing and transformations
+  - Feature extraction and model-based vision pipelines
+  - OpenCV-based applications and integrations
+
+- 🧠 **Deep Learning**
+  - Neural network fundamentals
+  - CNN-based architectures
+  - Hands-on with TensorFlow and PyTorch
+  - Model experimentation and performance tuning
+
+- 🛠️ **Automation & Scripting**
+  - API-driven automations
+  - Web scraping with Selenium
+  - Task scheduling, background jobs, and workflow logic
+  - Bash scripting for tooling and pipelines
+
+- 🌐 **Backend & Deployment**
+  - Django-based backends
+  - Streamlit apps for ML demos
+  - Cloud deployment using AWS, Azure, GCP, Firebase, and Vercel
+  - CI/CD using GitHub Actions
+
+### 🧩 Engineering Mindset
+- Strong understanding of **end-to-end system design**
+- Comfortable translating ideas into **working prototypes**
+- Focused on **clean code, modularity, and scalability**
+- Prefer building **things that can be deployed, tested, and used**
+
+I am continuously improving my skills in **AI architecture, agent systems, and automation-first design**, with the goal of building intelligent systems that solve real problems rather than just producing notebooks.
+
 - 📫 Reach me at **murtazabaig101@gmail.com**
 
 ---
@@ -39,19 +81,14 @@
 
 ### 🔹 Core
 Python 🐍 • C++ ⚙️
-
 ### 🔹 ML / Data
 NumPy • Pandas • SciPy • scikit-learn • Matplotlib • TensorFlow • PyTorch • Keras • MLflow
-
 ### 🔹 Computer Vision
 OpenCV 👁️
-
 ### 🔹 Web / Apps
 Django • Streamlit 🌐
-
 ### 🔹 Cloud / DevOps
 AWS ☁️ • Azure • GCP • Firebase • Vercel • GitHub Actions
-
 ### 🔹 Automation
 Bash • Selenium 🤖
 
