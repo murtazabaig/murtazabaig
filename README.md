@@ -131,6 +131,8 @@ Bash • Selenium 🤖
 ---
 
 ## 👀 Visitor Count
+## 👀 Profile Views
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/murtazabaig&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=true"/>
+  <img src="https://komarev.com/ghpvc/?username=murtazabaig&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
