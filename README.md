@@ -1,7 +1,7 @@
 # Hi 👋, I'm Murtaza Baig
 ## I am a student at TUF, pursuing a BS in Artificial Intelligence💫
 ![](https://github-profile-trophy.vercel.app/?username=murtazabaig&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-<br><br>🌱 I’m currently working on AI Agents and automations<br><br>💻 I’m currently learning Deep Learning , Open-Cv, Scipy, Data Analysis and Machine Learning<br><br>👨‍💻 All of my projects are available at https://github.com/murtazabaig<br><br>💬 Ask me about AI Agents, Orchestrations, AI Architecture. Machine Learning, Python , Web Scrapping , Model Training , Data Analysis<br><br>📫 How to reach me murtazabaig101@gmail.com <br><br>📫Portfolio website : https://murtazabaig.vercel.app/
+<br>🌱 I’m currently working on AI Agents and automations<br><br>💻 I’m currently learning Deep Learning , Open-Cv, Scipy, Data Analysis and Machine Learning<br><br>👨‍💻 All of my projects are available at https://github.com/murtazabaig<br><br>💬 Ask me about AI Agents, Orchestrations, AI Architecture. Machine Learning, Python , Web Scrapping , Model Training , Data Analysis<br><br>📫 How to reach me murtazabaig101@gmail.com <br><br>📫Portfolio website : https://murtazabaig.vercel.app/
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MurtazaBaig) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/murtazabaig__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/murtaza-baig-906418262) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murtazabaig101) 
 
@@ -12,10 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=murtazabaig&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=murtazabaig&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=murtazabaig&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
